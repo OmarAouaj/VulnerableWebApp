@@ -1,6 +1,6 @@
 <?php
 
-$con=mysqli_connect("127.0.0.1","dbuser","dbuser","vulnwebapp");
+$con=mysqli_connect("127.0.0.1","dbuser","dbuser","vulnerablewebapp");
 
 if (mysqli_connect_errno($con))
   {
