@@ -29,5 +29,5 @@ mysql -u root -p vulnerablewebapp < vulnwebappdb.sql
 To launch the application:
 ```
 cd VulnerableWebApp
-php -S 0.0.0.0:80 -t .
+php7.4 -S 0.0.0.0:80 -t .
 ```
