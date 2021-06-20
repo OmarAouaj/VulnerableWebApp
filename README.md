@@ -16,14 +16,14 @@ git clone https://github.com/OmarAouaj/VulnerableWebApp.git
 
 On mysql console:
 ```
-CREATE DATABASE vulnwebapp;
+CREATE DATABASE vulnerablewebapp;
 CREATE USER 'dbuser'@'localhost' IDENTIFIED BY 'dbuser';
-GRANT ALL PRIVILEGES ON vulnwebapp.* TO 'dbuser'@'localhost';
+GRANT ALL PRIVILEGES ON vulnerablewebapp.* TO 'dbuser'@'localhost';
 ```
 
 Then import **vulnwebappdb.sql** to mysql:
 ```
-mysql -u root -p vulnwebapp < vulnwebappdb.sql
+mysql -u root -p vulnerablewebapp < vulnwebappdb.sql
 ```
 
 To launch the application:
