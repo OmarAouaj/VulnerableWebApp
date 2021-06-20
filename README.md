@@ -23,7 +23,7 @@ GRANT ALL PRIVILEGES ON vulnwebapp.* TO 'dbuser'@'localhost';
 
 Then import **vulnwebappdb.sql** to mysql:
 ```
-mysql -u root -p vulnewebapp < vulnwebappdb.sql
+mysql -u root -p vulnwebapp < vulnwebappdb.sql
 ```
 
 To launch the application:
