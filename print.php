@@ -48,7 +48,7 @@ ini_set('display_errors', 1);
 	  
 	  
 	  <div class="footer">
-		<p>Made By AOUAJ Omar, EL FILALI Abdellah, EL JOUHARI Chaymae & RAHALI Oussama</p>
+		<p>Made By AOUAJ Omar</p>
       </div>
 
 	</div>
