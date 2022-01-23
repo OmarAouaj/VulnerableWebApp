@@ -88,7 +88,7 @@ $q = "SELECT * FROM users where username='".$username."' AND password = '".md5($
 	  
 	  
 	  <div class="footer">
-		<p>Made By AOUAJ Omar, EL FILALI Abdellah, EL JOUHARI Chaymae & RAHALI Oussama</p>
+		<p>Made By AOUAJ Omar</p>
       </div>
 	</div>
   
